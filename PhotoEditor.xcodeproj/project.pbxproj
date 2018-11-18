@@ -1,0 +1,424 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A03370971F7CD1BB00A38649 /* SplashPhoto@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370961F7CD1BB00A38649 /* SplashPhoto@1x.png */; };
+		A03370991F7CD3D500A38649 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03370981F7CD3D500A38649 /* HomeViewController.swift */; };
+		A033709B1F7CD3FD00A38649 /* cmra@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = A033709A1F7CD3FD00A38649 /* cmra@1x.png */; };
+		A033709D1F7CD43400A38649 /* manager.png in Resources */ = {isa = PBXBuildFile; fileRef = A033709C1F7CD43400A38649 /* manager.png */; };
+		A033709F1F7CD44200A38649 /* home-icon-silhouette.png in Resources */ = {isa = PBXBuildFile; fileRef = A033709E1F7CD44200A38649 /* home-icon-silhouette.png */; };
+		A03370A11F7CD44A00A38649 /* instagram-social-network-logo-of-photo-camera.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370A01F7CD44A00A38649 /* instagram-social-network-logo-of-photo-camera.png */; };
+		A03370A31F7CD5E300A38649 /* DevelopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03370A21F7CD5E300A38649 /* DevelopViewController.swift */; };
+		A03370A51F7CD6C500A38649 /* slack-symbol.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370A41F7CD6C500A38649 /* slack-symbol.png */; };
+		A03370A71F7CD7A900A38649 /* kamera hd.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370A61F7CD7A900A38649 /* kamera hd.png */; };
+		A03370A91F7CD80500A38649 /* manager (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A03370A81F7CD80500A38649 /* manager (1).png */; };
+		A03370AB1F7CD90400A38649 /* help-button-speech-bubble-with-question-mark.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370AA1F7CD90400A38649 /* help-button-speech-bubble-with-question-mark.png */; };
+		A03370AD1F7CDA5F00A38649 /* AboutAppViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03370AC1F7CDA5F00A38649 /* AboutAppViewController.swift */; };
+		A03370AF1F7CDC1B00A38649 /* instagram.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370AE1F7CDC1B00A38649 /* instagram.png */; };
+		A03370B11F7CDCD900A38649 /* wordpress.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370B01F7CDCD900A38649 /* wordpress.png */; };
+		A03370B31F7CDCFA00A38649 /* gmail.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370B21F7CDCFA00A38649 /* gmail.png */; };
+		A03370B51F7D37C200A38649 /* save.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370B41F7D37C200A38649 /* save.png */; };
+		A03370B71F7D37C900A38649 /* picture.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370B61F7D37C900A38649 /* picture.png */; };
+		A03370B91F7D3B9800A38649 /* addyourimg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A03370B81F7D3B9800A38649 /* addyourimg.jpg */; };
+		A03370BB1F7D3D9000A38649 /* addyourimg.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370BA1F7D3D9000A38649 /* addyourimg.png */; };
+		A03370BD1F7D3EBF00A38649 /* BlurGroup.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370BC1F7D3EBF00A38649 /* BlurGroup.png */; };
+		A03370C91F7D47BA00A38649 /* comic.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370C81F7D47BA00A38649 /* comic.png */; };
+		A03370CB1F7D490600A38649 /* map.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370CA1F7D490600A38649 /* map.png */; };
+		A03370CD1F7D4B0000A38649 /* Poster.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370CC1F7D4B0000A38649 /* Poster.png */; };
+		A03370CF1F7D4B0600A38649 /* noir.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370CE1F7D4B0600A38649 /* noir.png */; };
+		A03370D11F7D4B1100A38649 /* sepia.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370D01F7D4B1100A38649 /* sepia.png */; };
+		A03370D31F7D4CD500A38649 /* whitePoint.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370D21F7D4CD500A38649 /* whitePoint.png */; };
+		A03370D51F7D4CEA00A38649 /* Tone.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370D41F7D4CEA00A38649 /* Tone.png */; };
+		A03370D71F7D4D7F00A38649 /* bloom.png in Resources */ = {isa = PBXBuildFile; fileRef = A03370D61F7D4D7F00A38649 /* bloom.png */; };
+		A0B59A2C1F7B831300140329 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0B59A2B1F7B831300140329 /* AppDelegate.swift */; };
+		A0B59A2E1F7B831300140329 /* -[.v5,kl.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0B59A2D1F7B831300140329 /* -[.v5,kl.swift */; };
+		A0B59A311F7B831300140329 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0B59A2F1F7B831300140329 /* Main.storyboard */; };
+		A0B59A331F7B831300140329 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0B59A321F7B831300140329 /* Assets.xcassets */; };
+		A0B59A361F7B831300140329 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0B59A341F7B831300140329 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A03370961F7CD1BB00A38649 /* SplashPhoto@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SplashPhoto@1x.png"; sourceTree = "<group>"; };
+		A03370981F7CD3D500A38649 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		A033709A1F7CD3FD00A38649 /* cmra@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cmra@1x.png"; sourceTree = "<group>"; };
+		A033709C1F7CD43400A38649 /* manager.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = manager.png; sourceTree = "<group>"; };
+		A033709E1F7CD44200A38649 /* home-icon-silhouette.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "home-icon-silhouette.png"; sourceTree = "<group>"; };
+		A03370A01F7CD44A00A38649 /* instagram-social-network-logo-of-photo-camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instagram-social-network-logo-of-photo-camera.png"; sourceTree = "<group>"; };
+		A03370A21F7CD5E300A38649 /* DevelopViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DevelopViewController.swift; sourceTree = "<group>"; };
+		A03370A41F7CD6C500A38649 /* slack-symbol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slack-symbol.png"; sourceTree = "<group>"; };
+		A03370A61F7CD7A900A38649 /* kamera hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kamera hd.png"; sourceTree = "<group>"; };
+		A03370A81F7CD80500A38649 /* manager (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "manager (1).png"; sourceTree = "<group>"; };
+		A03370AA1F7CD90400A38649 /* help-button-speech-bubble-with-question-mark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "help-button-speech-bubble-with-question-mark.png"; sourceTree = "<group>"; };
+		A03370AC1F7CDA5F00A38649 /* AboutAppViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutAppViewController.swift; sourceTree = "<group>"; };
+		A03370AE1F7CDC1B00A38649 /* instagram.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instagram.png; sourceTree = "<group>"; };
+		A03370B01F7CDCD900A38649 /* wordpress.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wordpress.png; sourceTree = "<group>"; };
+		A03370B21F7CDCFA00A38649 /* gmail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gmail.png; sourceTree = "<group>"; };
+		A03370B41F7D37C200A38649 /* save.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = save.png; sourceTree = "<group>"; };
+		A03370B61F7D37C900A38649 /* picture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = picture.png; sourceTree = "<group>"; };
+		A03370B81F7D3B9800A38649 /* addyourimg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = addyourimg.jpg; sourceTree = "<group>"; };
+		A03370BA1F7D3D9000A38649 /* addyourimg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addyourimg.png; sourceTree = "<group>"; };
+		A03370BC1F7D3EBF00A38649 /* BlurGroup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BlurGroup.png; sourceTree = "<group>"; };
+		A03370C81F7D47BA00A38649 /* comic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comic.png; sourceTree = "<group>"; };
+		A03370CA1F7D490600A38649 /* map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = map.png; sourceTree = "<group>"; };
+		A03370CC1F7D4B0000A38649 /* Poster.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Poster.png; sourceTree = "<group>"; };
+		A03370CE1F7D4B0600A38649 /* noir.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noir.png; sourceTree = "<group>"; };
+		A03370D01F7D4B1100A38649 /* sepia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sepia.png; sourceTree = "<group>"; };
+		A03370D21F7D4CD500A38649 /* whitePoint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitePoint.png; sourceTree = "<group>"; };
+		A03370D41F7D4CEA00A38649 /* Tone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tone.png; sourceTree = "<group>"; };
+		A03370D61F7D4D7F00A38649 /* bloom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bloom.png; sourceTree = "<group>"; };
+		A0B59A281F7B831300140329 /* PhotoEditor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhotoEditor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A0B59A2B1F7B831300140329 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A0B59A2D1F7B831300140329 /* -[.v5,kl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "-[.v5,kl.swift"; sourceTree = "<group>"; };
+		A0B59A301F7B831300140329 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A0B59A321F7B831300140329 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A0B59A351F7B831300140329 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A0B59A371F7B831300140329 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A0B59A251F7B831300140329 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A0B59A1F1F7B831300140329 = {
+			isa = PBXGroup;
+			children = (
+				A0B59A2A1F7B831300140329 /* PhotoEditor */,
+				A0B59A291F7B831300140329 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A0B59A291F7B831300140329 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A0B59A281F7B831300140329 /* PhotoEditor.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A0B59A2A1F7B831300140329 /* PhotoEditor */ = {
+			isa = PBXGroup;
+			children = (
+				A0B59A2B1F7B831300140329 /* AppDelegate.swift */,
+				A0B59A2D1F7B831300140329 /* -[.v5,kl.swift */,
+				A0B59A2F1F7B831300140329 /* Main.storyboard */,
+				A03370AC1F7CDA5F00A38649 /* AboutAppViewController.swift */,
+				A03370A21F7CD5E300A38649 /* DevelopViewController.swift */,
+				A033709E1F7CD44200A38649 /* home-icon-silhouette.png */,
+				A03370B21F7CDCFA00A38649 /* gmail.png */,
+				A03370B41F7D37C200A38649 /* save.png */,
+				A03370B01F7CDCD900A38649 /* wordpress.png */,
+				A03370A41F7CD6C500A38649 /* slack-symbol.png */,
+				A03370BA1F7D3D9000A38649 /* addyourimg.png */,
+				A03370B61F7D37C900A38649 /* picture.png */,
+				A03370CA1F7D490600A38649 /* map.png */,
+				A0B59A321F7B831300140329 /* Assets.xcassets */,
+				A03370D61F7D4D7F00A38649 /* bloom.png */,
+				A03370B81F7D3B9800A38649 /* addyourimg.jpg */,
+				A03370BC1F7D3EBF00A38649 /* BlurGroup.png */,
+				A03370D41F7D4CEA00A38649 /* Tone.png */,
+				A03370A01F7CD44A00A38649 /* instagram-social-network-logo-of-photo-camera.png */,
+				A033709C1F7CD43400A38649 /* manager.png */,
+				A03370AE1F7CDC1B00A38649 /* instagram.png */,
+				A03370CC1F7D4B0000A38649 /* Poster.png */,
+				A03370D21F7D4CD500A38649 /* whitePoint.png */,
+				A03370CE1F7D4B0600A38649 /* noir.png */,
+				A03370D01F7D4B1100A38649 /* sepia.png */,
+				A03370C81F7D47BA00A38649 /* comic.png */,
+				A03370A81F7CD80500A38649 /* manager (1).png */,
+				A033709A1F7CD3FD00A38649 /* cmra@1x.png */,
+				A03370AA1F7CD90400A38649 /* help-button-speech-bubble-with-question-mark.png */,
+				A03370A61F7CD7A900A38649 /* kamera hd.png */,
+				A03370961F7CD1BB00A38649 /* SplashPhoto@1x.png */,
+				A0B59A341F7B831300140329 /* LaunchScreen.storyboard */,
+				A0B59A371F7B831300140329 /* Info.plist */,
+				A03370981F7CD3D500A38649 /* HomeViewController.swift */,
+			);
+			path = PhotoEditor;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A0B59A271F7B831300140329 /* PhotoEditor */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A0B59A3A1F7B831300140329 /* Build configuration list for PBXNativeTarget "PhotoEditor" */;
+			buildPhases = (
+				A0B59A241F7B831300140329 /* Sources */,
+				A0B59A251F7B831300140329 /* Frameworks */,
+				A0B59A261F7B831300140329 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PhotoEditor;
+			productName = PhotoEditor;
+			productReference = A0B59A281F7B831300140329 /* PhotoEditor.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A0B59A201F7B831300140329 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Hilmy Corp.";
+				TargetAttributes = {
+					A0B59A271F7B831300140329 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 72C5A4RQ56;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = A0B59A231F7B831300140329 /* Build configuration list for PBXProject "PhotoEditor" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A0B59A1F1F7B831300140329;
+			productRefGroup = A0B59A291F7B831300140329 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A0B59A271F7B831300140329 /* PhotoEditor */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A0B59A261F7B831300140329 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A03370D51F7D4CEA00A38649 /* Tone.png in Resources */,
+				A03370D11F7D4B1100A38649 /* sepia.png in Resources */,
+				A033709B1F7CD3FD00A38649 /* cmra@1x.png in Resources */,
+				A033709D1F7CD43400A38649 /* manager.png in Resources */,
+				A0B59A361F7B831300140329 /* LaunchScreen.storyboard in Resources */,
+				A03370A91F7CD80500A38649 /* manager (1).png in Resources */,
+				A03370B91F7D3B9800A38649 /* addyourimg.jpg in Resources */,
+				A03370CD1F7D4B0000A38649 /* Poster.png in Resources */,
+				A03370A71F7CD7A900A38649 /* kamera hd.png in Resources */,
+				A0B59A331F7B831300140329 /* Assets.xcassets in Resources */,
+				A03370B31F7CDCFA00A38649 /* gmail.png in Resources */,
+				A03370D31F7D4CD500A38649 /* whitePoint.png in Resources */,
+				A03370AF1F7CDC1B00A38649 /* instagram.png in Resources */,
+				A03370C91F7D47BA00A38649 /* comic.png in Resources */,
+				A03370CF1F7D4B0600A38649 /* noir.png in Resources */,
+				A03370A51F7CD6C500A38649 /* slack-symbol.png in Resources */,
+				A0B59A311F7B831300140329 /* Main.storyboard in Resources */,
+				A03370B51F7D37C200A38649 /* save.png in Resources */,
+				A03370971F7CD1BB00A38649 /* SplashPhoto@1x.png in Resources */,
+				A03370BB1F7D3D9000A38649 /* addyourimg.png in Resources */,
+				A03370AB1F7CD90400A38649 /* help-button-speech-bubble-with-question-mark.png in Resources */,
+				A03370D71F7D4D7F00A38649 /* bloom.png in Resources */,
+				A03370CB1F7D490600A38649 /* map.png in Resources */,
+				A03370A11F7CD44A00A38649 /* instagram-social-network-logo-of-photo-camera.png in Resources */,
+				A033709F1F7CD44200A38649 /* home-icon-silhouette.png in Resources */,
+				A03370B71F7D37C900A38649 /* picture.png in Resources */,
+				A03370BD1F7D3EBF00A38649 /* BlurGroup.png in Resources */,
+				A03370B11F7CDCD900A38649 /* wordpress.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A0B59A241F7B831300140329 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A03370A31F7CD5E300A38649 /* DevelopViewController.swift in Sources */,
+				A0B59A2E1F7B831300140329 /* -[.v5,kl.swift in Sources */,
+				A0B59A2C1F7B831300140329 /* AppDelegate.swift in Sources */,
+				A03370AD1F7CDA5F00A38649 /* AboutAppViewController.swift in Sources */,
+				A03370991F7CD3D500A38649 /* HomeViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A0B59A2F1F7B831300140329 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A0B59A301F7B831300140329 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A0B59A341F7B831300140329 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A0B59A351F7B831300140329 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A0B59A381F7B831300140329 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A0B59A391F7B831300140329 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A0B59A3B1F7B831300140329 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72C5A4RQ56;
+				INFOPLIST_FILE = PhotoEditor/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Hilmy-Fauzi.PhotoEditor";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		A0B59A3C1F7B831300140329 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72C5A4RQ56;
+				INFOPLIST_FILE = PhotoEditor/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Hilmy-Fauzi.PhotoEditor";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A0B59A231F7B831300140329 /* Build configuration list for PBXProject "PhotoEditor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A0B59A381F7B831300140329 /* Debug */,
+				A0B59A391F7B831300140329 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A0B59A3A1F7B831300140329 /* Build configuration list for PBXNativeTarget "PhotoEditor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A0B59A3B1F7B831300140329 /* Debug */,
+				A0B59A3C1F7B831300140329 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A0B59A201F7B831300140329 /* Project object */;
+}
